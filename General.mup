@@ -1,5 +1,15 @@
 {
   "title": "General",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "SYST10049",
+      "id": 2
+    },
+    "-1": {
+      "title": "SYST13416",
+      "id": 3
+    }
+  }
 }
