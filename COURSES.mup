@@ -1,0 +1,356 @@
+{
+  "title": "COURSES",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "syst13416",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "week12",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "sed",
+              "id": 12,
+              "ideas": {
+                "1": {
+                  "title": "post lab4 quiz",
+                  "id": 17,
+                  "attr": {
+                    "style": {
+                      "background": "#ff6600"
+                    },
+                    "storyboard-scenes": [
+                      {
+                        "storyboards": {
+                          "Storyboard 1": 1
+                        }
+                      }
+                    ],
+                    "icon": {
+                      "url": "internal:3/cbd84ddd-b581-b0de-b32d-3066a670266c/",
+                      "width": 16,
+                      "height": 16,
+                      "position": "top"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 1
+                    }
+                  }
+                ],
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 1
+                }
+              }
+            ],
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "2": {
+          "title": "week13",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "processes",
+              "id": 13,
+              "attr": {
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 1
+                    }
+                  }
+                ],
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 1
+                }
+              }
+            ],
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "3": {
+          "title": "week14",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "final exam",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "prepare exam",
+                  "id": 15,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff99"
+                    },
+                    "storyboard-scenes": [
+                      {
+                        "storyboards": {
+                          "Storyboard 1": 1
+                        }
+                      }
+                    ]
+                  }
+                },
+                "2": {
+                  "title": "post review",
+                  "id": 16,
+                  "attr": {
+                    "style": {
+                      "background": "#ff6600"
+                    },
+                    "storyboard-scenes": [
+                      {
+                        "storyboards": {
+                          "Storyboard 1": 1
+                        }
+                      }
+                    ],
+                    "icon": {
+                      "url": "internal:3/cbd84ddd-b581-b0de-b32d-3066a670266c/",
+                      "width": 16,
+                      "height": 16,
+                      "position": "top"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 1
+                    }
+                  }
+                ],
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 1
+                }
+              }
+            ],
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "0.5": {
+          "title": "http://mobile.sheridanc.on.ca/~bajcar/syst13416/",
+          "id": 21,
+          "attr": {
+            "style": {},
+            "position": [
+              90.50006103515625,
+              -176.99999618530273,
+              1
+            ]
+          }
+        }
+      },
+      "attr": {
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
+        ],
+        "style": {
+          "background": "#ffff99"
+        },
+        "collapsed": true
+      }
+    },
+    "2": {
+      "title": "request invigilator\nand partitions",
+      "id": 20,
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "-1": {
+      "title": "syst10199",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "week12",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "prepare Class Notes 12",
+              "id": 19,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                },
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 1
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "attr": {
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 1
+                }
+              }
+            ],
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "2": {
+          "title": "week13",
+          "id": 10,
+          "attr": {
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 1
+                }
+              }
+            ],
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "3": {
+          "title": "week14",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "prepare exam",
+              "id": 18,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                },
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 1
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "attr": {
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 1
+                }
+              }
+            ],
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "0.5": {
+          "title": "http://mobile.sheridanc.on.ca/~bajcar/syst10199/",
+          "id": 22,
+          "attr": {
+            "style": {},
+            "position": [
+              91.49998474121094,
+              -172.99998474121094,
+              1
+            ]
+          }
+        }
+      },
+      "attr": {
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
+        ],
+        "style": {
+          "background": "#ffff99"
+        },
+        "collapsed": true
+      }
+    }
+  },
+  "resources": {
+    "2/cbd84ddd-b581-b0de-b32d-3066a670266c/": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAOAA4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6a+BPwI8c+Efitoet63on2HTrXzwzi7gcJugkQZCuSclgOB3r4bX/AIJ7ftAHH/FBKpx31fTyB7AfaK+n/wBlxj/wvTwyOAP9JP8A5Ky15kSNPAAUPK/JY9K5cxqf8Q4lHB4Ze2VX3m5aWtpbQ9LhmtPxrp1cyxlsNKg1TUY+8mn71221bfzP/9k=",
+    "3/cbd84ddd-b581-b0de-b32d-3066a670266c/": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgJJREFUeNqUUkFrE1EQ/l732U1qNhgohNTSiF4kUilEkAqB5NKeNHjoOSVHoQQF6S2HDf6D9t6L0kMuPVhoL7kXvMZDQJTUkmKVEkKiabLPmbd561YK2oHJ25n5vi8z8x7aQuCYvE5O9pi8xCfHXyd+VY05zBX6B3CpkNlT6k6h2cw2MpkPRSE+I2RX1JoKqMqhX1+667pP84eHaLVayOdy2duFQjYskG80/tRWVrKfqtVpzsufft32ej2cdbv4uL6OWwsLGJ2fh/mXaowlnq0F+krxGfX6fTzZ3cWDoyPcsG18n5+Hs7MTCDxcXMS9dBo343EwlnjRSx2MKXlSqSA6M4MLSgwojszOBgK8xlgsBngeGGs6wH3fX6lrGnOYK5X/B5ZHo3hK4X9sim6OkBbCAiMWGI9R39/HcaeDuOOgvLami5xrU+5luewLWFYgMAUjQLMNSeDZ6ipelEronJ7q2OR4JyZmLP7qQHIHw9EIX9ptvK3XkVte1rGxHl1dEPsdSN0BC6hJBxcEmEul8HpjA+8PDnRsvEvvwHwzljkqJCDNCOzf6BExwcSVzU0d82lGUJPu5YA2GuF3QCOcEXFrexuJRALPi0UNZntTqwWjcG6asEoIm9+QPFFqLi2EY0mJZDKJmuv+8xoZS9IOc3kRqQHw41Ek8g7XsF/EYe5vAQYAhSpO5BPYJPUAAAAASUVORK5CYII="
+  },
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "style": {
+      "background": "#ffffff"
+    },
+    "storyboard-scenes": [
+      {
+        "storyboards": {
+          "Storyboard 1": 1
+        }
+      }
+    ],
+    "measurements-config": [
+      "Time"
+    ],
+    "icon": {
+      "url": "internal:2/cbd84ddd-b581-b0de-b32d-3066a670266c/",
+      "width": 14,
+      "height": 14,
+      "position": "top"
+    }
+  }
+}
